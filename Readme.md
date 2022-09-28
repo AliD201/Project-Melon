@@ -84,7 +84,7 @@ In general [Eric zimmerman tools](https://ericzimmerman.github.io/) are a great 
 
 | Name                  | Value                                                                             | Link                                                                              | Tag                       |
 | ----------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------- |
-| EventLogExplorer      | Easier and corruption tolerant log viewer, with ability to create custome columns | [EventLogExplorer](https://eventlogxp.com/)                                                                  | `forensics` `windows`     |
+| EventLogExplorer      | Easier and corruption tolerant log viewer, with ability to create custome columns | [EventLogExplorer](https://eventlogxp.com/)                                       | `forensics` `windows`     |
 | Kape                  | Triage Image collection tool                                                      | [Eric zimmerman tools](https://ericzimmerman.github.io)                           | `forensics` `windows`     |
 | Registery Explorer    | View registery & find deleted keys with shortcuts to important forensic data.     | [Eric zimmerman tools](https://ericzimmerman.github.io/)                          | `forensics` `windows`     |
 | TimeLine explorer     | Excel Like viewer with a great filtiring ability                                  | [Eric zimmerman tools](https://ericzimmerman.github.io/)                          | `forensics` `windows`     |
@@ -205,6 +205,13 @@ I am no expert in this so i need help here 😄
 | MxTools   | records lookups              | [MxTools](https://mxtoolbox.com/)                         | `network` `reputation` |
 
 ### Tools
+
+
+| Name          | Value                                                                                                                                                                                         | Link                                                        | Tags                    |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------- |
+| Wireshark     | View and analyze pcap files                                                                                                                                                                   | [Wireshark](https://www.wireshark.org/)                     | `netowrk`               |
+| Brim          | Uses with wireshark to open big pcap files fastly & clearly, where it summerize packets using the zeek(bro) logs and allow for instant extraction of targeted pcaps with a click of a button. | [Brim](https://www.brimdata.io/download/)                   | `network`               |
+| Network miner | similar to wireshark but with quicker to access menues with free & paid version                                                                                                               | [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) | `network` `free` `paid` |
 
 # Extras
 
