@@ -101,16 +101,17 @@ In general [Eric zimmerman tools](https://ericzimmerman.github.io/) are a great 
 
 I am no expert in this so i need help here 😄
 
-> Most tools here are from the LetsDefend malware analysis course
+> Most tools here are from the LetsDefend malware analysis course So Thank you ! ❤️
 
 ### Sites
 
 - Anlyz
-- Any.run ( low volume)
+- Any.run (low volume)
 - tri.age (high volume) ( https://tria.ge/ )
 - Comodo Valkyrie
 - Cuckoo
-- Hybrid Analysis
+- Hybrid Analysis ( https://www.hybrid-analysis.com/ )
+- Docguard ( https://app.docguard.io/ )
 - Intezer Analyze
 - SecondWrite Malware Deepview
 - Jevereg
@@ -198,11 +199,12 @@ I am no expert in this so i need help here 😄
 ### Sites
 
 
-| Name      | Value                        | Link                                                      | Tags                   |
-| ----------- | ------------------------------ | ----------------------------------------------------------- | ------------------------ |
-| AbuseIPDB | Check IP reputation          | [AbuseIpDB](https://www.abuseipdb.com/)                   | `network` `reputation` |
-| Talos     | IP reputation (mostly email) | [Talos](https://talosintelligence.com/reputation_center/) | `network` `reputation` |
-| MxTools   | records lookups              | [MxTools](https://mxtoolbox.com/)                         | `network` `reputation` |
+| Name       | Value                        | Link                                                      | Tags                   |
+| ------------ | ------------------------------ | ----------------------------------------------------------- | ------------------------ |
+| AbuseIPDB  | Check IP reputation          | [AbuseIpDB](https://www.abuseipdb.com/)                   | `network` `reputation` |
+| Talos      | IP reputation (mostly email) | [Talos](https://talosintelligence.com/reputation_center/) | `network` `reputation` |
+| MxTools    | records lookups              | [MxTools](https://mxtoolbox.com/)                         | `network` `reputation` |
+| UrlScan.io |                              | [UrlScan.io](https://urlscan.io/)                         |                        |
 
 ### Tools
 
