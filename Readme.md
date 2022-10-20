@@ -96,6 +96,8 @@ In general [Eric zimmerman tools](https://ericzimmerman.github.io/) are a great 
 | Browsing History view | view browsing history for multiple broswers like chrome\opera\firefox             | [Browsing History view](https://www.nirsoft.net/utils/browsing_history_view.html) | `forensics`               |
 | Mail OST\PST viewers  | nice to the eye email viewer                                                      | [Kernel Data Recovery tools](https://www.nucleustechnologies.com/free-tools.html) |                           |
 | USB Detective         | Overall USB forensics                                                             | [USB Detective](https://usbdetective.com/)                                        | `forensics` `free` `paid` |
+| WinPmem               | Memory acquestion                                                                 | [WinPmem](https://github.com/Velocidex/WinPmem)                                   | `forensic`                |
+| DumpIt                | Memory acquestion                                                                 |                                                                                   | `forensic`                |
 
 ## Malware analysis
 
@@ -108,6 +110,7 @@ I am no expert in this so i need help here 😄
 - Anlyz
 - Any.run (low volume)
 - tri.age (high volume) ( https://tria.ge/ )
+- Threat Zone ( https://app.threat.zone/plans )
 - Comodo Valkyrie
 - Cuckoo
 - Hybrid Analysis ( https://www.hybrid-analysis.com/ )
