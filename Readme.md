@@ -5,7 +5,7 @@ This is a collection of all security related tools that I happen to go over whil
 - [Project Melon (In Progress..)](#project-melon-in-progress)
 - [Project Structure](#project-structure)
 - [Knowledge Gates](#knowledge-gates)
-- [Tools\Sites](#toolssites)
+- [Tools\\Sites](#toolssites)
   - [Web related](#web-related)
     - [Sites](#sites)
     - [Tools](#tools)
@@ -42,7 +42,7 @@ This repo will be divided per tool category and further down with it being a too
 | :-------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | LetsDefend platform | Great free learning path for aspiring SOC analysts with access case managmet to solve Alerts that SOC analysts may encounter | https://app.letsdefend.io/<br />https://app.letsdefend.io/academy | `free` `blueteam` `learning`                                    |
 | Cyberdefenders      | `soon`                                                                                                                       | https://cyberdefenders.org/                                       | `blueteam` `learning` `practice`                                |
-| Blueteamlabs        | `soon`                                                                                                                       | https://blueteamlabs.online/                                       | `blueteam` `learning` `practice`                                |
+| Blueteamlabs        | `soon`                                                                                                                       | https://blueteamlabs.online/                                      | `blueteam` `learning` `practice`                                |
 | TryHackme           | Great free source for blue team & red team learning paths with a practical expierence                                        | https://tryhackme.com/                                            | `free` `blue tean` `red team` `learning` `practice`             |
 | PicoCTF             | Great free source for CTF & red team training covering all aspects from reverse engineering to web penteration               | https://picoctf.org/                                              | `free`  `red team` `learning` `CTF` `practice`                  |
 | HackTheBox          | Great free source for CTF & red team training and a source of certificates                                                   | https://www.hackthebox.com/                                       | `free`  `red team` `learning` `CTF` `certifications` `practice` |
@@ -57,6 +57,8 @@ This repo will be divided per tool category and further down with it being a too
 | Name       | Value                                                                                                                                                                      | Link                                     | tag                          |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------ |
 | Juice shop | Modren insecure web app that you can test your pentesting skills on.(website is no longer online, you might need to host it on your machine the docker image is available) | https://github.com/juice-shop/juice-shop | `free` `red team` `learning` |
+| URLVOID    | Website reputation checker                                                                                                                                                 | https://www.urlvoid.com/                 | `reputation` `scanning`      |
+| Checkphish | AI-powered scanner that analyzes the safety of URLs                                                                                                                        | https://checkphish.ai/                   | `reputation` `scanning`      |
 
 ### Tools
 
@@ -71,11 +73,12 @@ This repo will be divided per tool category and further down with it being a too
 ### Sites
 
 
-| Name      | Value                                                                                                            | Link                               | Tag                         |
-| ----------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ----------------------------- |
-| Echotrail | Insight on windows proccess and servicess (e.g.. what is svchost.exe and it's parents\relatives and source path) | https://www.echotrail.io/          | `forensics`                 |
-| LOLBAS    | Living of the land binaries,                                                                                     | https://lolbas-project.github.io/# | `forensics`                 |
-| Wigle.net | Wigle.net is a website that consolidates location and other data on wireless networks around the world           | [Wigle](https://www.wigle.net/)    | `forensics`<br />`networks` |
+| Name                                                     | Value                                                                                                            | Link                                                    | Tag                                       |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------- |
+| Echotrail                                                | Insight on windows proccess and servicess (e.g.. what is svchost.exe and it's parents\relatives and source path) | [echotrail](https://www.echotrail.io/https:/)           | `forensics`                               |
+| LOLBAS                                                   | Living of the land binaries,                                                                                     | [lolbas](https://lolbas-project.github.io/#https:/)     | `forensics`                               |
+| Wigle.net                                                | Wigle.net is a website that consolidates location and other data on wireless networks around the world           | [Wigle](https://www.wigle.net/)                         | `forensics`<br />`networks`               |
+| CFReDS<br />(Computer Forensic Reference DataSet Portal) | Forensic images for training from NIST                                                                           | [NIST forensic images](https://cfreds.nist.gov/https:/) | `forensics`<br />`images`<br />`datasets` |
 
 ### Tools
 
@@ -139,8 +142,11 @@ I am no expert in this so i need help here 😄
 - malware hunter team
 - virscan
 - jotti
+- [Eicar](https://www.eicar.org/download-anti-malware-testfile/)
 
 ### Tools
+
+* Sandboxie-plus ([https://sandboxie-plus.com/](https://https://sandboxie-plus.com/))
 
 #### Some debuggers:
 
@@ -202,12 +208,17 @@ I am no expert in this so i need help here 😄
 ### Sites
 
 
-| Name       | Value                        | Link                                                      | Tags                   |
-| ------------ | ------------------------------ | ----------------------------------------------------------- | ------------------------ |
-| AbuseIPDB  | Check IP reputation          | [AbuseIpDB](https://www.abuseipdb.com/)                   | `network` `reputation` |
-| Talos      | IP reputation (mostly email) | [Talos](https://talosintelligence.com/reputation_center/) | `network` `reputation` |
-| MxTools    | records lookups              | [MxTools](https://mxtoolbox.com/)                         | `network` `reputation` |
-| UrlScan.io |                              | [UrlScan.io](https://urlscan.io/)                         |                        |
+| Name             | Value                                                               | Link                                                            | Tags                           |
+| ------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------- |
+| AbuseIPDB        | Check IP reputation                                                 | [AbuseIpDB](https://www.abuseipdb.com/)                         | `network` `reputation`         |
+| Talos            | IP reputation (mostly email)                                        | [Talos](https://talosintelligence.com/reputation_center/)       | `network` `reputation`         |
+| MxTools          | records lookups                                                     | [MxTools](https://mxtoolbox.com/)                               | `network` `reputation`         |
+| UrlScan.io       | scan a website or check previous scans with images from the website | [UrlScan.io](https://urlscan.io/)                               | `network``reputation`          |
+| ZoomEye          | Similar to shodan with vulnarbility scanning                        | [zoomEye](https://www.zoomeye.org/)                             | `network`<br />`vulnerability` |
+| Alienvault       | Open threat intel and reputation checker                            | [alienvault.com/](https://otx.alienvault.com/https:/)           | `network` `reputation`         |
+| X-Force Exchange | Open threat intel by IBM                                            | [exchange.xforce](https://exchange.xforce.ibmcloud.com/https:/) | `network` `reputation`         |
+| IPVoid           | IP block list checker                                               | [IPvoid](https://www.ipvoid.com/https:/)                        | `network` `reputation`         |
+| IPInfo           | Get more details about an IP like Geo Location and deeper details   | [IPinfo.io](https://ipinfo.io/https:/)                          | `network`                      |
 
 ### Tools
 
@@ -220,10 +231,18 @@ I am no expert in this so i need help here 😄
 
 # Extras
 
+* https://www.phishtool.com/ ( a local tool to analyze phishing emails)
 * https://malware-traffic-analysis.net/
+* https://github.com/nsacyber/Mitigating-Web-Shells
 * (Threat inteliigence sources) https://github.com/hslatman/awesome-threat-intelligence
+* https://binaryedge.io/ ( Threat Intel.)
+* https://www.crowdsec.net/ ( Threat Intel & scanning engine  )
+* https://www.cvedetails.com/ (CVE details)
 * (pcap visualizer) https://github.com/Srinivas11789/PcapXray
 * (security lists) https://github.com/danielmiessler/SecLists
 * https://github.com/projectdiscovery/nuclei
 * https://github.com/RsaCtfTool/RsaCtfTool
 * https://www.shodan.io/
+* [The missing verclsid.exe documentation | by Henri Hambartsumyan | FalconForce | Medium](https://medium.com/falconforce/the-missing-verclsid-exe-documentation-7080757e9acf)
+* https://offsec.tools/ ( Security tools list browser )
+* https://www.vmray.com/
